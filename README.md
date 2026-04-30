@@ -1,80 +1,79 @@
 # 👋 Ricardo Diniz — Data Analytics & Engineering Portfolio
 
-Data Analytics & Engineering portfolio focused on BI, data modeling, and scalable data pipelines for decision-making.
+Profissional de dados com foco em transformar dados financeiros em informação estruturada para tomada de decisão.
+
+Atuo na evolução de soluções de Business Intelligence para arquiteturas mais robustas, aplicando conceitos de modelagem dimensional, pipelines de dados e governança.
 
 ---
 
 ## 🚀 Projetos em Destaque
 
 ### 📊 DRE Automatizada em Power BI
-
 🔗 https://github.com/rsdiniz-data/dre-analise-financeira-powerbi
 
-Projeto de Business Intelligence focado na construção de uma DRE automatizada, com modelagem dimensional, KPIs financeiros e simulação de cenários.
+Projeto de Business Intelligence focado na construção de uma DRE automatizada a partir de dados financeiros.
 
 **Destaques:**
-
-* Modelagem Star Schema
-* KPIs financeiros (Receita, EBITDA, Lucro)
-* Análises YoY, AH e AV
-* Simulação What-If
+- Modelagem dimensional (Star Schema)
+- KPIs financeiros (Receita, EBITDA, Lucro)
+- Análises YoY, AH e AV
+- Simulações de cenário (What-If)
 
 ---
 
-### 🗄️ Pipeline de Dados (em construção)
+### 🗄️ Pipeline de Dados para DRE (SQL Server + Python)
+🔗 https://github.com/rsdiniz-data/dre-data-pipeline-sql-server
 
-Projeto focado na construção de pipeline de dados estruturado, com ingestão, transformação e disponibilização para análise.
+Evolução do projeto anterior para uma arquitetura de dados estruturada, com ingestão, transformação e consumo analítico.
 
-**Objetivo:**
-
-* Evoluir para arquitetura de dados escalável
-* Aplicar boas práticas de engenharia de dados
-* Estruturar dados para consumo analítico
+**Destaques:**
+- Ingestão de dados com Python (PDF e Excel)
+- Armazenamento em SQL Server
+- Modelagem em camadas (staging e analítica)
+- Transformações centralizadas no SQL
+- Redução de processamento no Power BI
 
 ---
 
 ## 🛠️ Stack Técnica
 
-**BI & Analytics**
+### 📊 BI & Analytics
+- Power BI  
+- DAX  
+- Power Query  
 
-* Power BI
-* DAX
-* Power Query
+### 🧱 Data & Engineering
+- SQL  
+- Modelagem de dados  
+- ETL / ELT  
 
-**Data & Engineering**
-
-* SQL
-* Modelagem de dados
-* ETL / ELT
-
-**Em evolução**
-
-* Python
-* APIs
-* Arquiteturas de dados (Data Lake / Lakehouse)
+### 🚧 Em evolução
+- Python  
+- APIs  
+- Arquiteturas de dados (Data Lake / Lakehouse)  
 
 ---
 
 ## 🧠 Competências
 
-* Análise de dados orientada ao negócio
-* Modelagem dimensional
-* Construção de pipelines de dados
-* Data storytelling
-* Automação de relatórios
+- Análise de dados orientada ao negócio  
+- Modelagem dimensional  
+- Construção de pipelines de dados  
+- Data storytelling  
+- Automação de relatórios  
 
 ---
 
 ## 📈 Direcionamento Profissional
 
-Atualmente focado na evolução de soluções analíticas para arquiteturas de dados mais robustas, integrando conceitos de engenharia de dados como:
+Foco na evolução de soluções analíticas para arquiteturas de dados mais escaláveis, com:
 
-* Separação por camadas (Bronze, Silver, Gold)
-* Processamento de dados em escala
-* Governança e qualidade de dados
+- Separação por camadas (staging / analítica / lakehouse)  
+- Processamento de dados em escala  
+- Governança e qualidade de dados  
 
 ---
 
 ## 📫 Contato
 
-* LinkedIn: https://www.linkedin.com/in/ricardo-diniz/
+🔗 LinkedIn: https://www.linkedin.com/in/ricardo-diniz/
