@@ -1,6 +1,6 @@
 # 👋 Ricardo Diniz — Data Analytics & Engineering Portfolio
 
-Profissional de dados com foco em transformar dados financeiros em informação estruturada para tomada de decisão.
+Profissional de dados com foco em transformar dados em informação estruturada para tomada de decisão.
 
 Atuo na evolução de soluções de Business Intelligence para arquiteturas mais robustas, aplicando conceitos de modelagem dimensional, pipelines de dados e governança.
 
