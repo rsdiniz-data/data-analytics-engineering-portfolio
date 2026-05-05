@@ -39,7 +39,7 @@ Evolução para uma arquitetura de dados estruturada, com ingestão, transforma�
 
 ---
 
-### ☁️ 3. Data Lake Pipeline para DRE (PySpark + Medallion Architecture)  
+### ☁️ 3. Data Lake Pipeline para DRE (PySpark + Arquitetura Medallion)  
 🔗 https://github.com/rsdiniz-data/dre-data-lake-pipeline-pyspark
 
 Evolução para uma arquitetura moderna em nuvem, com processamento distribuído e organização em Data Lake.
