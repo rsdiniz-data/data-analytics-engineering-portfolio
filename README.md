@@ -59,19 +59,24 @@ Evolução para uma arquitetura moderna em nuvem, com processamento distribuído
 ### 📊 BI & Analytics
 - Power BI  
 - DAX  
-- Power Query  
+- Power Query
+- Excel  
 
 ### 🧱 Data & Engineering
 - SQL  
 - Modelagem dimensional  
 - ETL / ELT  
-- Data Lake (Medallion)  
-- PySpark  
+- Data Lake (Medallion)
+- Python
+- PySpark
 
 ### 🚧 Em evolução
-- Python (avançando em pipelines e automação)  
+
 - APIs  
-- Arquiteturas Lakehouse  
+- Arquiteturas Lakehouse
+- Azure
+- Databricks
+- GCP
 
 ---
 
